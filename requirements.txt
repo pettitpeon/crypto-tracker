@@ -1,0 +1,7 @@
+streamlit
+requests
+web3
+pandas
+pycoingecko
+seaborn
+matplotlib
